@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">To do list</string>
+    <string name="label_new_label">Criar tarefas</string>
+    <string name="label_title">Titulo</string>
+    <string name="label_hint">Data</string>
+    <string name="label_data_hint">Hora</string>
+    <string name="label_cancel_hint">Cancelar</string>
+    <string name="label_text">Criar uma tarefa</string>
+</resources>
